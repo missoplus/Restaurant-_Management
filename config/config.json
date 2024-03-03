@@ -1,0 +1,24 @@
+{
+    "development": {
+        "username": "root",
+        "password": null,
+        "database": "ressys",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": null,
+        "database": "database-test",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": null,
+        "database": "database-production",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+
+}
